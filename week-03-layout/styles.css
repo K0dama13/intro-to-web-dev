@@ -6,6 +6,11 @@ div {
   border: thin solid black;
   margin: 25px 0;
 }
+
+div {
+  background-color: green;
+  opacity: 0.6;
+}
 .grid-container {
   display: grid;
   grid-column-gap: 50px;
