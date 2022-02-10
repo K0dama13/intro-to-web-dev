@@ -6,7 +6,9 @@ div {
   border: thin solid black;
   margin: 25px 0;
 }
-
+.grid-container {
+  display: grid;
+}
 footer {
   border: thin solid black;
 }
