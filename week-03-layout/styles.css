@@ -8,6 +8,8 @@ div {
 }
 .grid-container {
   display: grid;
+  grid-column-gap: 50px;
+  grid-row-gap: 50px;
 }
 footer {
   border: thin solid black;
