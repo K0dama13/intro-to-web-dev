@@ -9,7 +9,6 @@ div {
 
 body{
   background-color: pink;
-  opacity: 0.6;
 }
 .grid-container {
   display: grid;
