@@ -11,6 +11,9 @@ div {
   padding-left: 80px;
 }
 
+h1, h2, h3{
+  text-align: center;
+}
 
 body{
   background-color: pink;
