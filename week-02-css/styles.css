@@ -1,15 +1,21 @@
-/* Element selector that gives every p element a monospace font. */
+
 p {
-  font-family: monospace;
+  font-family: Times;
 }
 
-/* Class selector that gives elements with this class a big bold style. */
+
 .big {
   font-size: large;
   font-weight: bold;
 }
 
+.italics{
+  font-size: small;
+  font-style: italics;
+}
+
 /* ID selector that gives the element with this ID a red style. */
 #boldly {
   color: red;
+  font-family: fantasy;
 }
